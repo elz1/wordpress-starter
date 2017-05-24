@@ -1,0 +1,19 @@
+{
+  "name": "wordpress-starter",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elz1/wordpress-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elz1/wordpress-starter/issues"
+  },
+  "homepage": "https://github.com/elz1/wordpress-starter#readme"
+}
